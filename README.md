@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman-Moharram
-- 👀 I’m interested in Data Sceince
-- 🌱 I’m currently learning ASP.Net
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Full-Stack
 - 📫 How to reach me abdumo7aram@gmail.com
 
